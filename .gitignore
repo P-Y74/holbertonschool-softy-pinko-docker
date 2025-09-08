@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
